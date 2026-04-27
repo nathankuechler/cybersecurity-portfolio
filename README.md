@@ -1,6 +1,6 @@
 # About Me
 
-I’m a cybersecurity professional with a background in electrical engineering and web development. Over the last seven years, I’ve worked in network security, endpoint and mail security, SOC analysis, and now government firewall operations. My interest in cybersecurity started early — I enjoyed understanding how systems worked and how attackers could break them.
+I’m a cybersecurity professional with a background in electrical engineering and web development. Over the last eight years, I’ve worked in network security, endpoint and mail security, SOC analysis, and am now in a government firewall operations position. My interest in cybersecurity started early — I enjoyed understanding how systems worked and how attackers could break them.
 
 I’m currently focusing on transitioning from firewall operations to penetration testing, with a continued interest in digital forensics.
 
@@ -24,15 +24,21 @@ Key takeaways:
 - I discovered which security domains I’m strong in and which need more work  
 - Exposure to tools and techniques outside my daily job strengthened my adaptability
 
-Scouting Reports (Fall 2025):
-- Individual Game: https://cyberskyline.com/report/L8MPR81JL8PA
-- Team Game: https://cyberskyline.com/report/CJLM27TW8NVA
+Scouting Reports (NCL):
+- Individual Game (Spring 2026): Link to follow
+- Team Game (Spring 2026): Link to follow
+- Individual Game (Fall 2025): https://cyberskyline.com/report/L8MPR81JL8PA
+- Team Game (Fall 2025): https://cyberskyline.com/report/CJLM27TW8NVA
 
 ---
 
 # CTF Highlights
 
-## Mainframe Challenge
+## Participating in a CTF with additional time pressure (NCL-Spring-2026)
+This CTF took place during preparation for a mountain biking race week in Croatia, which required planning and coordination outside of the competition. As a result, the time available for challenges was more limited than intended.
+This constraint reinforced the need for efficiency and prioritization. I focused on quick analysis over deep exploration and adapted my approach to make steady progress despite the limited time. Despite these circumstances I was able to achieve a higher score than the las season.
+
+## Mainframe Challenge (NCL-Fall-2025)
 A mainframe-based task pushed me into unfamiliar territory. I spent significant time understanding how it operated, what could be exploited, and where its limits were. It required persistence, experimentation, and creative reasoning.
 
 ## Team Collaboration
@@ -42,4 +48,4 @@ Working with a distributed team (Europe–US) was a major highlight. Sharing ide
 
 # Next Steps
 
-I’m working toward a role in penetration testing and exploring ways to automate offensive security workflows.
+I’m working toward a role in penetration testing and exploring ways to automate offensive security workflows. To that end I'm currently enrolled at SANS Technology Institute and working towards my Bachelor in Applied Cybersecurity.
