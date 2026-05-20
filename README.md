@@ -25,8 +25,8 @@ Key takeaways:
 - Exposure to tools and techniques outside my daily job strengthened my adaptability
 
 Scouting Reports (NCL):
-- Individual Game (Spring 2026): Link to follow
-- Team Game (Spring 2026): Link to follow
+- Individual Game (Spring 2026): https://github.com/nathankuechler/cybersecurity-portfolio/blob/ec06a28c5a2ee41df1083b84407e651bcb1e3fee/2026%20Spring%20Individual%20Game%20-%20Cyber%20Skyline%20Report.pdf
+- Team Game (Spring 2026): https://github.com/nathankuechler/cybersecurity-portfolio/blob/ec06a28c5a2ee41df1083b84407e651bcb1e3fee/2026%20Spring%20Team%20Game%20-%20Cyber%20Skyline%20Report.pdf
 - Individual Game (Fall 2025): https://cyberskyline.com/report/L8MPR81JL8PA
 - Team Game (Fall 2025): https://cyberskyline.com/report/CJLM27TW8NVA
 
